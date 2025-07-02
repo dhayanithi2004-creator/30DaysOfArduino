@@ -1,0 +1,9 @@
+# Day 01 - Arduino Setup and Basics
+
+## 📌 What I Learned
+- How to download and install Arduino IDE
+- Basic overview of Arduino boards
+- Understanding the structure of an Arduino sketch (`setup()` and `loop()` functions)
+
+## 📂 No code today
+This day was focused on installation and understanding how Arduino works.
